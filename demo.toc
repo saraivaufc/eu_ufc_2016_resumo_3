@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {brazil}
+\beamer@sectionintoc {1}{Introdu\c {c}\~ao}{3}{0}{1}
+\beamer@sectionintoc {2}{Metodologia}{6}{0}{2}
+\beamer@sectionintoc {3}{Coding Dojos na Universidade Federal do Cear\'a}{9}{0}{3}
+\beamer@sectionintoc {4}{Coment\'arios}{12}{0}{4}
